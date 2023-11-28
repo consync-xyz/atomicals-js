@@ -26,3 +26,4 @@ commit-command-output*.json
 .env
 .gitkeep
 dmint/
+test_wallet.json
